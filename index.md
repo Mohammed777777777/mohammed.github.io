@@ -5,7 +5,7 @@ I am currently working on a project with Alberta Oil Sand Monitoring. Before tha
 mapping.
 
 
-- Google Scholar
+- [Google Scholar](https://www.linkedin.com/in/mohammed-06b4b1351/)
 - Linkedin
 - YouTube
 - ResearchGate
