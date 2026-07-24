@@ -12,4 +12,4 @@ mapping.
 
 
 ### My maps
-<embed type="text/html" src="/img/cu_map2.html" height="650" width="850">
+<embed type="text/html" src="/img/USASK_map.html" height="650" width="850">
